@@ -1,0 +1,6 @@
+### Plotaround
+
+- Stop Cplot2 crashing when rho is 0
+- Add slider to define plot size
+- Add button to print to file
+- Add selection of file to print to
